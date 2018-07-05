@@ -1,4 +1,4 @@
-# nfa_to_dfa
+# NFA to DFA Converter
 by Shevis Johnson
 
 A simple java program that takes a Nondeterministic Finite Automaton (NFA) and converts it to an equivalent Deterministic Finite Automaton (DFA) if one exists.
@@ -21,3 +21,5 @@ a	b
 * line 3 = start state
 * line 4 = set of accept states
 * line 5-EOF = transition function
+
+Built and compiled in Java using IntelliJ

@@ -22,4 +22,7 @@ a	b
 * line 4 = set of accept states
 * line 5-EOF = transition function
 
+A diagram of the state machine represented in the above example:
+<img src="https://kraylus.cloud/public/NFA.png" alt="Example NFA" height="395" width="633">
+
 Built and compiled in Java using IntelliJ
